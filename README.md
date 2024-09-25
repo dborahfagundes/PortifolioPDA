@@ -8,7 +8,8 @@ Este é um dos mini projetos feitos durante o programa de formação Programador
 - **HTML**
 - **CSS**
 
-![image](https://github.com/user-attachments/assets/8f3d6e96-3e7d-4f6a-8796-2e6c0f47d0af)
+![image](https://github.com/user-attachments/assets/8045a2f0-7108-4104-ac79-e3416031b048)
+
 
 ## Deploy
 Para conferir o projeto sem clonar o repositório, você pode acessar o deploy no link abaixo
