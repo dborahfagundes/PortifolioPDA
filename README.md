@@ -11,5 +11,5 @@ Este é um dos mini projetos feitos durante o programa de formação Programador
 ![image](https://github.com/user-attachments/assets/8f3d6e96-3e7d-4f6a-8796-2e6c0f47d0af)
 
 ## Deploy
-Para conferir o projeto sem clonar o repositório, você pode conferir através do deploy no link abaixo
+Para conferir o projeto sem clonar o repositório, você pode acessar o deploy no link abaixo
 https://dborahfagundes.netlify.app/
